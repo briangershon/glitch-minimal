@@ -1,6 +1,14 @@
 # glitch-minimal
 
-[Brian's](https://glitch.com/@briangershon) favorite minimal setup when starting a new [Glitch](https://glitch.com/) project.
+[Brian's](https://glitch.com/@briangershon) minimal setup when starting a new [Glitch](https://glitch.com/) project.
+
+Preview this project at [glitch-minimal](https://glitch.com/~glitch-minimal).
+
+Instantly create your new Glitch project by remixing:
+
+<a href="https://glitch.com/edit/?utm_content=project_glitch-minimal&utm_source=remix_this&utm_medium=button&utm_campaign=glitchButton#!/remix/glitch-minimal">
+  <img src="https://cdn.glitch.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix%402x.png?1513093958726" alt="remix this" height="33">
+</a>
 
 Includes:
 
@@ -10,13 +18,11 @@ Includes:
 * ISC license
 * config for nvm (`.nvmrc` is locked to Node.js v12.0.0 since that's the most recent version on Glitch)
 
-## How to create a new project on Glitch
+## How to use on Glitch
 
-You have two options.
+Instantly create your new Glitch project based on this template by just <a href="https://glitch.com/edit/?utm_content=project_glitch-minimal&utm_source=remix_this&utm_medium=button&utm_campaign=glitchButton#!/remix/glitch-minimal">remixing this</a>.
 
-1. Visit the <https://glitch.com/~glitch-minimal> project and **Remix It**!
-
-2. Create a new project by choosing "New Project" then pick "Clone from Git Repo". Type in `https://github.com/briangershon/glitch-minimal` as the Github repository.
+You now have a new project!
 
 ## How to run locally
 
