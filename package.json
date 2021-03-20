@@ -1,6 +1,6 @@
 {
   "name": "glitch-minimal",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A minimal Glitch starter project",
   "main": "server.js",
   "scripts": {
@@ -13,6 +13,6 @@
     "express": "^4.17.1"
   },
   "engines": {
-    "node": "12.x"
+    "node": "14.x"
   }
 }

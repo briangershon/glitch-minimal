@@ -12,11 +12,11 @@ Or preview this project before remixing here: [glitch-minimal](https://glitch.co
 
 Includes:
 
-* A simple app with one view via Express running on Node.js
+* A simple app with one view via Express running on Node.js v14
 * Styling with default fonts that look nice across operating systems
 * Prettier config
 * ISC license
-* Config for using nvm when running locally. Note that `.nvmrc` is locked to Node.js v12.0.0 since that's the most recent version on Glitch.
+* Config for using nvm when running locally
 
 ## How to run on Glitch
 
